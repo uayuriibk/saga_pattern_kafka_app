@@ -38,15 +38,16 @@ Microservices design patterns
 
 
 4. Operational Patterns
-       
-       - Log aggregation patterns
-       
-       - Metrics aggregation patterns
-       
-       - 
-
-
-
-
+      
+      - Log aggregation patterns
+      
+      - Metrics aggregation patterns
+      
+      - Tracing patterns
+      
+      - External configuration
+      
+      - Service discovery
+      
 
 Saga design pattern
