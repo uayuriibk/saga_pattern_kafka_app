@@ -1,4 +1,4 @@
-# saga_architecture_pattern_app
+# saga_pattern_kafka_app
 
 
 Microservices design patterns
